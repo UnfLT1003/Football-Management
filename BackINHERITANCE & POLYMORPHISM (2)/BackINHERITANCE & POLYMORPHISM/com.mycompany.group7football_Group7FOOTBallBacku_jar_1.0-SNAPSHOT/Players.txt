@@ -1,0 +1,1 @@
+P001,Bao,Goalkeeper,32,04/04/2004,Vietnam,0.00,5,1000000.00,StarPlayer,Active,9,2,1
