@@ -49,7 +49,6 @@ public class DataInput {
         return n;
     }
 
-// chuyển đổi base salary
     public static double getDoubleNumber() throws Exception {
         String s = getString();
         if (s.isEmpty()) return -1; // dùng để skip
