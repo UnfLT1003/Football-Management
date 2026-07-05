@@ -1,2 +1,0 @@
-TR001,20/06/2003,Camp,any
-TR001,20/06/2025,Camp Nou,Tactical Formation
