@@ -1,10 +1,5 @@
 
 package Utilities;
-/**
- *
- * @author Admin
- */
-
    
 public final class DataValidation {
 
@@ -31,7 +26,6 @@ public final class DataValidation {
         return value.trim().matches(pattern);
     }
 
-    // Các helper riêng cho hệ thống bóng đá
     public static boolean isValidJerseyNumber(int number) {
         return number >= 1 && number <= 99;
     }
